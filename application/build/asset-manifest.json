@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.6af8b7b7.css",
-    "main.js": "./static/js/main.780f4583.js",
+    "main.js": "./static/js/main.f56633ce.js",
     "static/media/backgroundcustom.png": "./static/media/backgroundcustom.c5de2319591b6f2b9541.png",
     "static/media/MediumItalic.ttf": "./static/media/MediumItalic.82736aaa11c64709055f.ttf",
     "static/media/BoldItalic.ttf": "./static/media/BoldItalic.87d61cea6fe1d235d4a8.ttf",
@@ -15,16 +15,16 @@
     "static/media/OpenSans-Bold.ttf": "./static/media/OpenSans-Bold.a0fe34bea92d4e1a84d6.ttf",
     "static/media/sample_network.png": "./static/media/sample_network.9221f2f89bc2133eca3d.png",
     "static/media/sample_architecture.png": "./static/media/sample_architecture.03ca3cf39604c9aacd25.png",
+    "static/media/logo-app-custom.png": "./static/media/logo-app-custom.89864ccc57fd7149a305.png",
     "static/media/logo.png": "./static/media/logo.83998045f731773e71b8.png",
     "static/media/logo-app.png": "./static/media/logo-app.ec7d41c4c69a0f2b8269.png",
-    "static/media/custom-logo.png": "./static/media/custom-logo.7c202515dc903a3d5219.png",
     "static/media/logo-app-lite.png": "./static/media/logo-app-lite.9770cf8371e07b352bce.png",
     "index.html": "./index.html",
     "main.6af8b7b7.css.map": "./static/css/main.6af8b7b7.css.map",
-    "main.780f4583.js.map": "./static/js/main.780f4583.js.map"
+    "main.f56633ce.js.map": "./static/js/main.f56633ce.js.map"
   },
   "entrypoints": [
     "static/css/main.6af8b7b7.css",
-    "static/js/main.780f4583.js"
+    "static/js/main.f56633ce.js"
   ]
 }
